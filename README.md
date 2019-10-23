@@ -1,6 +1,6 @@
 # CsvSplit
-Standalone tool for CSV file splitting
-This tool is meant for splitting CSV files that are > 1 MB.
+Standalone tool for CSV file splitting.
+This tool only supports splitting CSV files that are > 1 MB.
 
 ## Usage
 
