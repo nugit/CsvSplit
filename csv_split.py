@@ -46,4 +46,4 @@ if __name__ == '__main__':
     else:
         split_file(path, target_size_in_mb * 1024 * 1024)
 
-    print('Done splitting %s with chunk size of %s bytes' % (path, target_size_in_mb))
+    print('Done splitting %s with chunk size of approx %s MB' % (path, target_size_in_mb))
